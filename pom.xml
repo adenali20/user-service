@@ -49,7 +49,7 @@
     </dependencies>
 
     <build>
-        <finalName>us.1</finalName>
+<!--        <finalName>us.0-SNAPSHOT</finalName>-->
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
